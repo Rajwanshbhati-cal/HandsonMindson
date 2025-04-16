@@ -41,3 +41,5 @@ public class Weakqueen {
         System.out.println("S(" + n + ") = " + calculateS(n));
     }
 }
+
+// hello shero
